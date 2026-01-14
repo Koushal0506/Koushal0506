@@ -1,5 +1,22 @@
-# 💫 About Me:
-Mini projects in C, C++, Java, and IoT-based applications to strengthen my practical skills.<br>Beginner to intermediate projects related to programming, web development, and IoT.<br>Improving problem-solving skills, data structures, and real-world project development.<br>Advanced Java concepts, web development, and IoT integrations.<br>C, C++, Java basics, HTML, CSS, IoT projects, and college mini projects.<br>I enjoy solving problems and learning new technologies step by step to become a better engineer.
+## 👋 About Me
+
+🔭 I’m currently working on<br>
+Mini projects in C, C++, Java, and IoT-based applications to strengthen my practical skills.<br><br>
+
+👯 I’m looking to collaborate on<br>
+Beginner to intermediate projects related to programming, web development, and IoT.<br><br>
+
+🤝 I’m looking for help with<br>
+Improving problem-solving skills, data structures, and real-world project development.<br><br>
+
+🌱 I’m currently learning<br>
+Advanced Java concepts, web development, and IoT integrations.<br><br>
+
+💬 Ask me about<br>
+C, C++, Java basics, HTML, CSS, IoT projects, and college mini projects.<br><br>
+
+⚡ Fun fact<br>
+I enjoy solving problems and learning new technologies step by step to become a better engineer..
 
 
 ## 🌐 Socials:
